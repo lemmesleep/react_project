@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_project/static/css/main.a8d509c7.css",
+    "main.js": "/react_project/static/js/main.c7f9df6b.js",
+    "static/media/evelyn.png": "/react_project/static/media/evelyn.8ab3e9888955cd11d29f.png",
+    "static/media/insta1.png": "/react_project/static/media/insta1.0912878c736a47903122.png",
+    "index.html": "/react_project/index.html",
+    "main.a8d509c7.css.map": "/react_project/static/css/main.a8d509c7.css.map",
+    "main.c7f9df6b.js.map": "/react_project/static/js/main.c7f9df6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d509c7.css",
+    "static/js/main.c7f9df6b.js"
+  ]
+}
