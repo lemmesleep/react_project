@@ -1,9 +1,9 @@
-import Main from "./main.js";
-import './App.css';
-import * as React from "react";
-import Navbar from "./navbar.js";
 
-const {useState} = React;
+import * as React from "react";
+import Introduction from "./introduction.js";
+import Navbar from "./navbar.js";
+import About from "./About.js";
+
 function App() {
     // const [counter, setCounter] = useState(0);
   return (
@@ -14,7 +14,8 @@ function App() {
       {/*  <button onClick = {()=> setCounter(counter + 1)}>increase the counter by 1</button>*/}
       {/*  <navbar/>*/}
         <Navbar />
-        <Main />
+        <Introduction />
+        <About/>
 
     </div> //jsx element
   );
